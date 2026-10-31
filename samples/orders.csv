@@ -1,0 +1,13 @@
+order_id,customer_id,amount,status
+O1001,C101,25.50,paid
+O1002,C102,30.00,paid
+O1003,C103,28.50,pending
+O1004,C104,35.00,paid
+O1005,C105,27.00,paid
+O1006,C106,31.00,paid
+O1007,C107,29.00,pending
+O1008,C108,32.00,paid
+O1008,C109,45.00,paid
+O1010,,9999.00,paid
+O1011,C111,unknown,failed
+O1012,C112,33.00,paid
